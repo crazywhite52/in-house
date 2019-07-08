@@ -1,4 +1,4 @@
-# React Bootstrap with Material Design
+# React In House
 MDBootstrap for React
 
 ## Getting Started
