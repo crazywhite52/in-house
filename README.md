@@ -1,6 +1,12 @@
 # React In House
 MDBootstrap for React
 
+[![Build Status][build-badge]][build]
+[![Version][version-badge]][package]
+[![MIT License][license-badge]][license]
+[![All Contributors][all-contributors-badge]][all-contributors]
+[![PRs Welcome][prs-welcome-badge]][prs-welcome]
+
 ## Getting Started
 To test, contribute or just see what we did follow few easy steps:
 - clone the repository
